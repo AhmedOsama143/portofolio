@@ -1,0 +1,2 @@
+1- Add title atribute to each img in gallary section .
+2- Make the form mail to me .
